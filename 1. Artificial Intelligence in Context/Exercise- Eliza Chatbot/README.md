@@ -34,15 +34,8 @@ Continue the conversation with ELIZA using various phrases:
 - Make a statement: _"I am worried about my exams."_
 
 Note how ELIZA responds to each type of input.
-<<<<<<< HEAD:1. Artificial Intelligence in Context/Exercise- Eliza Chatbot/README.md.txt
-
----
 
 #### Step 3 - Detect Patterns
 
 Look at ELIZA's responses and think about why it might have said what it did. Try to identify keywords in your input that ELIZA might be responding to.
-=======
-Step 3 - Detect Patterns
-Look at ELIZA's responses and think about why it might have said what it did.
-Try to identify keywords in your input that ELIZA might be responding to.
->>>>>>> cb677ba1e31154a62fd2b1a74ffa08c1b666f39b:1. Artificial Intelligence in Context/Exercise- Eliza Chatbot/README.md
+
