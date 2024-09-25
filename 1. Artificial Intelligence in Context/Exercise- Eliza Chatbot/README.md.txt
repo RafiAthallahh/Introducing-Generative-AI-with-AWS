@@ -23,7 +23,7 @@ Go to the [ELIZA simulation](http://www.masswerk.at/elizabot/).
 
 Begin the conversation with a simple greeting like _"Hello, ELIZA."_
 
----
+
 
 #### Step 2 - Chat and Observe
 
@@ -35,7 +35,7 @@ Continue the conversation with ELIZA using various phrases:
 
 Note how ELIZA responds to each type of input.
 
----
+
 
 #### Step 3 - Detect Patterns
 
